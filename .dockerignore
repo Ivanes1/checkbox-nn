@@ -1,0 +1,9 @@
+.git
+.gitignore
+__pycache__
+.DS_Store
+.env
+.venv
+.python-version
+.ipynb_checkpoints
+Dockerfile
